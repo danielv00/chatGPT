@@ -1,1 +1,1 @@
-This repository demonstrates chatGPT usages of in various NLP tasks
+This repository demonstrates chatGPT usages in various NLP tasks
